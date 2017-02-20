@@ -1,2 +1,2 @@
 # 一往
-Just a personal page. 
+The backup of my blog. 
